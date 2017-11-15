@@ -1,8 +1,8 @@
 <h2>About UHvibe</h2>
 
-<p>UHvibe is a Meteor application that allows the University of Hawaii community to meet with people of similar music vibes.</p>
+<p>UHvibe is a Meteor application that allows the a person from University of Hawaii community to meet with other people of similar music vibes.</p>
 
-<h2>Landingpage</h2>
+<h2>Landing Page</h2>
 
 <p>When you come to the site, you are greeted by the following landing page:</p>
 
