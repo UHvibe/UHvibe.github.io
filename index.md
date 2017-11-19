@@ -36,5 +36,10 @@ UHvibe is a Meteor application that is designed to help the University of Hawaii
 
 # Development History
 ## Milestone 1
+Milestone 1 started on November 7, 2017 and ended on November 21, 2017.
+
+The goal of the milestone was to create mockup pages of our app.
+
+Mockup Pages include: .....
 
 
