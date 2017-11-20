@@ -3,11 +3,11 @@
 * [About UHvibe](#about-uhvibe)
 * [User Guide](#user-guide)
   * [Landing Page](#landing-page)
-  * [Learn More Page](#learn-more)
-  * [Get Started Page](#get-started)
+  * [Learn More Page](#learn-more-page)
+  * [Get Started Page](#get-started-page)
   * [Login](#login)
   * [Profile Form](#profile-form)
-  * [Search/Filter](#search-filter)
+  * [Search](#search)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   
@@ -29,7 +29,7 @@ UHvibe is a Meteor application that is designed to help the University of Hawaii
 
 ### Profile Form
 
-### Search/Filter
+### Search
 
 # Development History
 ### Milestone 1
@@ -42,6 +42,4 @@ Mockup Pages include:
 * Learn More Page
 * Get Started Page
 * Profile Form Page
-* Search/Filter Page
-
-
+* Search Page
