@@ -24,13 +24,13 @@ UHvibe is a Meteor application that is designed to help the University of Hawaii
 
 ### Learn More Page
 
+### Get Started Page
+
 ### Login
 
 ### Profile Form
 
-### Search
-
-### Messages
+### Search/Filter
 
 # Installation
 
@@ -46,6 +46,5 @@ Mockup Pages include:
 * Get Started Page
 * Profile Form Page
 * Search/Filter Page
-* ...
 
 
