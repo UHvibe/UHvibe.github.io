@@ -7,7 +7,7 @@
   * [Get Started Page](#get-started-page)
   * [Login](#login)
   * [Profile Form](#profile-form)
-  * [Search/Filter](#search/filter)
+  * [Search](#search)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   
