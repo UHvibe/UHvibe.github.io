@@ -14,6 +14,9 @@
   * [Milestone 1](#milestone-1)
   
 # About UHvibe
+
+The University of Hawaii System has 10 campuses and additonal educational and research centers across the State of Hawaii. Although University of Hawaii has a large and diverse community, there are very little ways to find and connect with others based on their music 'vibe'. UHvibe offers a way to overcome these issues.
+
 UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests/skills. 
 
 # User Guide
