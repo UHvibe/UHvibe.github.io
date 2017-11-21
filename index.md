@@ -17,7 +17,7 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
 
-# User Guide
+# User Guide (Screen-Shots of the Pages will Change in the Future)
 
 ### Landing Page
 
@@ -29,8 +29,10 @@ UHvibe is a Meteor application that is designed to help the University of Hawaii
 
 ### Get Started Page
 
+Part-1
 <img width="1397" alt="getstarted_page_1_nov20" src="https://user-images.githubusercontent.com/23148470/33055040-39de2d50-ce21-11e7-94bb-1b5137daf7c3.png">
 
+Part-2
 <img width="1363" alt="getstarted_page_2_nov20" src="https://user-images.githubusercontent.com/23148470/33055044-459f0146-ce21-11e7-9b48-ee85bd66cd2e.png">
 
 ### Login Page
