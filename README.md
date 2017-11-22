@@ -12,6 +12,7 @@
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+* [Contact Us](#contact-us)
   
 # About UHvibe
 
@@ -87,5 +88,12 @@ The issues done in Milestone 1 can be seen in [UHvibe Github Project Milestone 1
 The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
 
 ### Milestone 2
+In Progress...
 
-* In Progress
+# Contact Us
+* Mai Abe
+Email: ...
+* Darlene Agbayani
+Email: ...
+* Jun Okabe
+Email: okabej3@hawaii.edu
