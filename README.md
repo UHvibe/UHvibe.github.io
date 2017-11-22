@@ -91,13 +91,8 @@ The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project
 In Progress...
 
 # Contact Us
-* Mai Abe
+* Mai Abe: ...
 
-Email: ...
+* Darlene Agbayani: ...
 
-* Darlene Agbayani
-
-Email: ...
-* Jun Okabe
-
-Email: okabej3@hawaii.edu
+* Jun Okabe: okabej3@hawaii.edu
