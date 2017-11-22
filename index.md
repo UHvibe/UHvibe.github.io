@@ -10,6 +10,7 @@
   * [Search](#search)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
   
 # About UHvibe
 
@@ -17,7 +18,7 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
 
-# User Guide (Screen-Shots of the Pages will Change in the Future)
+# User Guide (Temporary Screen-Shots)
 
 ### Landing Page
 
@@ -49,9 +50,9 @@ Part-2
 
 # Development History
 ### Milestone 1
-Milestone 1 started on November 7, 2017 and ended on November 21, 2017.
+Milestone 1 started on November 7, 2017 and ended on November 22, 2017.
 
-The goal of the milestone was to create mockup pages of our app.
+The goal of the milestone was to create mockup pages of our app. 
 
 Mockup Pages include: 
 * Landing Page
@@ -59,3 +60,11 @@ Mockup Pages include:
 * Get Started Page
 * Profile Form Page
 * Search Page
+
+The issues done in Milestone 1 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/1">UHvibe Github Project Milestone 1</a>. Each issue was implemented in its own branch and was merged into the master branch.
+
+The issues that are planned in Milestone 2 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/2">UHvibe Github Project Milestone 2</a>.
+
+### Milestone 2
+
+* In Progress
