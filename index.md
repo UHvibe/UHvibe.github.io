@@ -9,6 +9,7 @@
   * [Login](#login)
   * [Profile Form](#profile-form)
   * [Search](#search)
+* [Application Design](#application-design)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
@@ -38,7 +39,11 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
+If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
+
+# Application Design
+
+In Progress..
 
 # User Guide
 
