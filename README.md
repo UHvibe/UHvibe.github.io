@@ -82,9 +82,9 @@ Mockup Pages include:
 * Profile Form Page
 * Search Page
 
-The issues done in Milestone 1 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/1">UHvibe Github Project Milestone 1</a>. Each issue was implemented in its own branch and was merged into the master branch.
+The issues done in Milestone 1 can be seen in [UHvibe Github Project Milestone 1](https://github.com/UHvibe/UHvibe/projects/1). Each issue was implemented in its own branch and was merged into the master branch.
 
-The issues that are planned in Milestone 2 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/2">UHvibe Github Project Milestone 2</a>.
+The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
 
 ### Milestone 2
 
