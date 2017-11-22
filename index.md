@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [About UHvibe](#about-uhvibe)
+* [Installation](#installation)
 * [User Guide](#user-guide)
   * [Landing Page](#landing-page)
   * [Learn More](#learn-more)
@@ -17,6 +18,26 @@
 University of Hawaii has 10 campuses and additional educational and research facilities across the State of Hawaii. Thus, the community is very large and diverse. Unfortunately, there are very little ways to find and connect with others based on their music 'vibe'. UHvibe offers a way to overcome these issues.
 
 UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
+
+# Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of UHvibe](https://github.com/UHvibe/UHvibe/archive/master.zip), or clone it using git.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
 
 # User Guide
 
@@ -61,9 +82,9 @@ Mockup Pages include:
 * Profile Form Page
 * Search Page
 
-The issues done in Milestone 1 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/1">UHvibe Github Project Milestone 1</a>. Each issue was implemented in its own branch and was merged into the master branch.
+The issues done in Milestone 1 can be seen in [UHvibe Github Project Milestone 1](https://github.com/UHvibe/UHvibe/projects/1). Each issue was implemented in its own branch and was merged into the master branch.
 
-The issues that are planned in Milestone 2 can be seen in <a href="https://github.com/UHvibe/UHvibe/projects/2">UHvibe Github Project Milestone 2</a>.
+The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
 
 ### Milestone 2
 
