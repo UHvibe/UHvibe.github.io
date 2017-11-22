@@ -17,7 +17,7 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
 
-# User Guide (Screen-Shots of the Pages will Change in the Future)
+# User Guide (Temporary Screen-Shots)
 
 ### Landing Page
 
@@ -51,7 +51,7 @@ Part-2
 ### Milestone 1
 Milestone 1 started on November 7, 2017 and ended on November 21, 2017.
 
-The goal of the milestone was to create mockup pages of our app.
+The goal of the milestone was to create mockup pages of our app. The work that was completed in Milestone 1 can be seen <a href="https://github.com/UHvibe/UHvibe/projects/1">here</a>.
 
 Mockup Pages include: 
 * Landing Page
