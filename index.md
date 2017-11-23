@@ -102,6 +102,6 @@ In Progress...
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
 
-* Darlene Agbayani: ...
+* Darlene Agbayani: darlene4@hawaii.edu
 
 * Jun Okabe: okabej3@hawaii.edu
