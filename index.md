@@ -53,15 +53,19 @@ In Progress..
 
 ### Learn More
 
-<img width="1638" alt="learnmore_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055073-6f471b1e-ce21-11e7-956f-119e398e0811.png">
+Part-1
+<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/dkPA2m/LEARNMORE_SCREEN_1.png">
+
+Part-2
+<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/ic9ooR/LEARNMORE_SCREEN_2.png">
 
 ### Get Started
 
 Part-1
-<img width="1397" alt="getstarted_page_1_nov20" src="https://user-images.githubusercontent.com/23148470/33055040-39de2d50-ce21-11e7-94bb-1b5137daf7c3.png">
+<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/moRnF6/GET_STARTED_PAGE_1.png">
 
 Part-2
-<img width="1363" alt="getstarted_page_2_nov20" src="https://user-images.githubusercontent.com/23148470/33055044-459f0146-ce21-11e7-9b48-ee85bd66cd2e.png">
+<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/c3Cuv6/GET_STARTED_PAGE_3.png">
 
 ### Login
 
@@ -69,11 +73,11 @@ Part-2
 
 ### Profile Form
 
-<img width="1218" alt="profileform_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055066-5cfafc00-ce21-11e7-986b-40acf281631f.png">
+<img width="1218" alt="profileform_page_nov20" src="https://image.ibb.co/dCtjv6/CREATE_PROFILE_PAGE_1.png">
 
 ### Search
 
-<img width="963" alt="search_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055076-78dba44c-ce21-11e7-9d27-b3853166ac35.png">
+<img width="963" alt="search_page_nov20" src="https://image.ibb.co/b5MR8R/SEARCH_PAGE_1.png">
 
 # Development History
 ### Milestone 1
@@ -104,6 +108,6 @@ In Progress...
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
 
-* Darlene Agbayani: ...
+* Darlene Agbayani: darlene4@hawaii.edu
 
 * Jun Okabe: okabej3@hawaii.edu
