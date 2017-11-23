@@ -53,8 +53,10 @@ In Progress..
 
 ### Learn More
 
+Part-1
 <img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/dkPA2m/LEARNMORE_SCREEN_1.png">
 
+Part-2
 <img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/ic9ooR/LEARNMORE_SCREEN_2.png">
 
 ### Get Started
@@ -62,10 +64,8 @@ In Progress..
 Part-1
 <img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/ejCxhm/GET_STARTED_PAGE_1.png">
 
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/g5YRa6/GET_STARTED_PAGE_3.png">
-
 Part-2
-<img width="1363" alt="getstarted_page_2_nov20" src="https://user-images.githubusercontent.com/23148470/33055044-459f0146-ce21-11e7-9b48-ee85bd66cd2e.png">
+<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/g5YRa6/GET_STARTED_PAGE_3.png">
 
 ### Login
 
