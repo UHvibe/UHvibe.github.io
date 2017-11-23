@@ -77,7 +77,7 @@ Part-2
 
 ### Search
 
-<img width="963" alt="search_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055076-78dba44c-ce21-11e7-9d27-b3853166ac35.png">
+<img width="963" alt="search_page_nov20" src="https://image.ibb.co/b5MR8R/SEARCH_PAGE_1.png">
 
 # Development History
 ### Milestone 1
