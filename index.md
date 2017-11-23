@@ -62,10 +62,10 @@ Part-2
 ### Get Started
 
 Part-1
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/ejCxhm/GET_STARTED_PAGE_1.png">
+<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/moRnF6/GET_STARTED_PAGE_1.png">
 
 Part-2
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/g5YRa6/GET_STARTED_PAGE_3.png">
+<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/c3Cuv6/GET_STARTED_PAGE_3.png">
 
 ### Login
 
