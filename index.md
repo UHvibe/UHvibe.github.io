@@ -19,7 +19,7 @@
 
 University of Hawaii has 10 campuses and additional educational and research facilities across the State of Hawaii. Thus, the community is very large and diverse. Unfortunately, there are very little ways to find and connect with others based on their music 'vibe'. UHvibe offers a way to overcome these issues.
 
-[UHvibe](http://uhvibe.meteorapp.com/) is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
+UHvibe is a Meteor application that is designed to help the University of Hawaii community find and connect with others based on their music interests and skills. 
 
 # Installation
 
@@ -53,19 +53,15 @@ In Progress..
 
 ### Learn More
 
-Part-1
-<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/dkPA2m/LEARNMORE_SCREEN_1.png">
-
-Part-2
-<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/ic9ooR/LEARNMORE_SCREEN_2.png">
+<img width="1638" alt="learnmore_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055073-6f471b1e-ce21-11e7-956f-119e398e0811.png">
 
 ### Get Started
 
 Part-1
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/moRnF6/GET_STARTED_PAGE_1.png">
+<img width="1397" alt="getstarted_page_1_nov20" src="https://user-images.githubusercontent.com/23148470/33055040-39de2d50-ce21-11e7-94bb-1b5137daf7c3.png">
 
 Part-2
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/c3Cuv6/GET_STARTED_PAGE_3.png">
+<img width="1363" alt="getstarted_page_2_nov20" src="https://user-images.githubusercontent.com/23148470/33055044-459f0146-ce21-11e7-9b48-ee85bd66cd2e.png">
 
 ### Login
 
@@ -73,11 +69,11 @@ Part-2
 
 ### Profile Form
 
-<img width="1218" alt="profileform_page_nov20" src="https://image.ibb.co/dCtjv6/CREATE_PROFILE_PAGE_1.png">
+<img width="1218" alt="profileform_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055066-5cfafc00-ce21-11e7-986b-40acf281631f.png">
 
 ### Search
 
-<img width="963" alt="search_page_nov20" src="https://image.ibb.co/b5MR8R/SEARCH_PAGE_1.png">
+<img width="963" alt="search_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055076-78dba44c-ce21-11e7-9d27-b3853166ac35.png">
 
 # Development History
 ### Milestone 1
@@ -92,7 +88,13 @@ Mockup Pages include:
 * Profile Form Page
 * Search Page
 
-The issues done in Milestone 1 can be seen in [UHvibe Github Project Milestone 1](https://github.com/UHvibe/UHvibe/projects/1). Each issue was implemented in its own branch and was merged into the master branch.
+The issues done in Milestone 1 can be seen in [UHvibe Github Project Milestone 1](https://github.com/UHvibe/UHvibe/projects/1). 
+
+<img width="666" alt="ms1-issues-final" src="https://user-images.githubusercontent.com/23148470/33162957-35cd079e-cfd0-11e7-964d-b469eb82e76a.png">
+
+Each issue was implemented in its own branch and was merged into the master branch.
+
+<img width="1186" alt="ms1-network" src="https://user-images.githubusercontent.com/23148470/33163001-5d7b80d6-cfd0-11e7-8190-b7c7505b5895.png">
 
 The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
 
@@ -102,6 +104,6 @@ In Progress...
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
 
-* Darlene Agbayani: darlene4@hawaii.edu
+* Darlene Agbayani: ...
 
 * Jun Okabe: okabej3@hawaii.edu
