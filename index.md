@@ -13,6 +13,7 @@
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+* [Feedback](#feedback)
 * [Contact Us](#contact-us)
   
 # About UHvibe
@@ -76,7 +77,6 @@ $ meteor npm run start
 If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
 
 # Application Design
-
 In Progress..
 
 # Development History
@@ -103,6 +103,9 @@ Each issue was implemented in its own branch and was merged into the master bran
 The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
 
 ### Milestone 2
+In Progress...
+
+# Feedback
 In Progress...
 
 # Contact Us
