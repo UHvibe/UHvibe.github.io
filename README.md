@@ -12,7 +12,7 @@
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
-* [Test User's Feedback](#test-user's-feedback)
+* [Feedback](#feedback)
 * [Contact Us](#contact-us)
   
 # About UHvibe
@@ -110,36 +110,47 @@ The goal of this milestone was to continue to increase the functionality and the
 
 The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
-# Test User's Feedback
+# Feedback
 
-Good
-C.B.: 
-*The design looks great.
-*All the basic functions are available.
-*The app was simple to navigate.
-A.E.:
-*The color choice for the design is really good.
-*The various functions are great.
+##Good
 
-Bad/Improvements
 C.B.: 
-*You could add more customization in the user's profile
-*Show the whole conversation (the message chain)
-*On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
-*Create groups and allow users to possibly comment and send puclic messages within the group
-A.E.:
-*Maybe add some slack-like channels for a group of users
-*Could have users follow or add other users (a friend system)
+The design looks great.
 
-Overall
-C.B.: 
-*Expected something bland, but it was cool.
+All the basic functions are available.
+
+The app was simple to navigate.
+
 A.E.:
-*Overall, it was really good. I didn't expect it to be that good. 
+The color choice for the design is really good.
+
+The various functions are great.
+
+##Bad/Improvements
+
+C.B.: 
+You could add more customization in the user's profile
+
+Show the whole conversation (the message chain)
+
+On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
+
+Create groups and allow users to possibly comment and send puclic messages within the group
+
+A.E.:
+Maybe add some slack-like channels for a group of users
+
+Could have users follow or add other users (a friend system)
+
+##Overall
+
+C.B.: 
+Expected something bland, but it was cool.
+
+A.E.:
+Overall, it was really good. I didn't expect it to be that good. 
 
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
-
 * Darlene Agbayani: darlene4@hawaii.edu
-
 * Jun Okabe: okabej3@hawaii.edu
