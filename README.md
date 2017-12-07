@@ -114,30 +114,43 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 *Feedback 1 by C.B.*
 
 **Good**:
+
 -The design looks great.
+
 -All the basic functions are available.
+
 -The app was simple to navigate.
 
 **Bad/Improvements**:
+
 -You could add more customization in the user's profile
+
 -Show the whole conversation (the message chain)
+
 -On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
+
 -Create groups and allow users to possibly comment and send puclic messages within the group
 
 **Overall**:
+
 -Expected something bland, but it was cool.
 
 *Feedback 2 by A.E.*
 
 **Good**:
+
 -The color choice for the design is really good.
+
 -The various functions are great.
 
 **Bad/Improvements**:
+
 -Maybe add some slack-like channels for a group of users
+
 -Could have users follow or add other users (a friend system)
 
 **Overall**:
+
 -Overall, it was really good. I didn't expect it to be that good. 
 
 # Contact Us
