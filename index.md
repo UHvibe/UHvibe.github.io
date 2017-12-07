@@ -111,7 +111,7 @@ The goal of this milestone was to continue to increase the functionality and the
 The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
 # Feedback
-*Feedback 1 by C.B.*
+#### Feedback 1 by C.B.
 
 **Good**:
 
@@ -135,7 +135,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Expected something bland, but it was cool.
 
-*Feedback 2 by A.E.*
+#### Feedback 2 by A.E.
 
 **Good**:
 
