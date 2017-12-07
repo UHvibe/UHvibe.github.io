@@ -111,30 +111,31 @@ The goal of this milestone was to continue to increase the functionality and the
 The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
 # Test User's Feedback
+
 Good
 C.B.: 
-#The design looks great.
-#All the basic functions are available.
-#The app was simple to navigate.
+*The design looks great.
+*All the basic functions are available.
+*The app was simple to navigate.
 A.E.:
-#The color choice for the design is really good.
-#The various functions are great.
+*The color choice for the design is really good.
+*The various functions are great.
 
 Bad/Improvements
 C.B.: 
-#You could add more customization in the user's profile
-#Show the whole conversation (the message chain)
-#On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
-#Create groups and allow users to possibly comment and send puclic messages within the group
+*You could add more customization in the user's profile
+*Show the whole conversation (the message chain)
+*On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
+*Create groups and allow users to possibly comment and send puclic messages within the group
 A.E.:
-#Maybe add some slack-like channels for a group of users
-#Could have users follow or add other users (a friend system)
+*Maybe add some slack-like channels for a group of users
+*Could have users follow or add other users (a friend system)
 
 Overall
 C.B.: 
-#Expected something bland, but it was cool.
+*Expected something bland, but it was cool.
 A.E.:
-#Overall, it was really good. I didn't expect it to be that good. 
+*Overall, it was really good. I didn't expect it to be that good. 
 
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
