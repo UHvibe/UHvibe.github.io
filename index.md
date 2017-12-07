@@ -9,11 +9,10 @@
   * [Profile Form](#profile-form)
   * [Search](#search)
 * [Installation](#installation)
-* [Application Design](#application-design)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
-* [Feedback](#feedback)
+* [Test User's Feedback](#test-user's-feedback)
 * [Contact Us](#contact-us)
   
 # About UHvibe
@@ -76,6 +75,8 @@ $ meteor npm run start
 
 If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
 
+The UHvibe files were made using an Integrated Developement Environment called IntelliJ IDEA. The files can be modified using your text-editor of choice.
+
 # Application Design
 In Progress..
 
@@ -83,7 +84,7 @@ In Progress..
 ### Milestone 1
 Milestone 1 started on November 7, 2017 and ended on November 22, 2017.
 
-The goal of the milestone was to create mockup pages of our app. 
+The goal of this milestone was to create mockup pages of our app. 
 
 Mockup Pages include: 
 * Landing Page
@@ -100,13 +101,40 @@ Each issue was implemented in its own branch and was merged into the master bran
 
 <img width="1186" alt="ms1-network" src="https://user-images.githubusercontent.com/23148470/33163001-5d7b80d6-cfd0-11e7-8190-b7c7505b5895.png">
 
-The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2)
+The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
 ### Milestone 2
-In Progress...
+Milestone started on November 23, 2017 and ended on December 7, 2017.
 
-# Feedback
-In Progress...
+The goal of this milestone was to continue to increase the functionality and the overall quality of our app.
+
+The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
+
+# Test User's Feedback
+Good
+C.B.: 
+#The design looks great.
+#All the basic functions are available.
+#The app was simple to navigate.
+A.E.:
+#The color choice for the design is really good.
+#The various functions are great.
+
+Bad/Improvements
+C.B.: 
+#You could add more customization in the user's profile
+#Show the whole conversation (the message chain)
+#On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
+#Create groups and allow users to possibly comment and send puclic messages within the group
+A.E.:
+#Maybe add some slack-like channels for a group of users
+#Could have users follow or add other users (a friend system)
+
+Overall
+C.B.: 
+#Expected something bland, but it was cool.
+A.E.:
+#Overall, it was really good. I didn't expect it to be that good. 
 
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
