@@ -4,10 +4,12 @@
 * [User Guide](#user-guide)
   * [Landing Page](#landing-page)
   * [Learn More](#learn-more)
-  * [Get Started](#get-started)
   * [Login](#login)
-  * [Profile Form](#profile-form)
+  * [Create Profile](#create-profile)
+  * [Edit Profile](#edit-profile)
+  * [User Profile](#user-profile)
   * [Search](#search)
+  * [Messages](#messages)
 * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1)
@@ -25,35 +27,47 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 ### Landing Page
 
-<img width="1642" alt="landing_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055025-1dfeb3e8-ce21-11e7-9652-4e325b8b011c.png">
+<img width="1632" alt="uhvibe_landing_page" src="https://user-images.githubusercontent.com/23148470/33913696-fbd222c6-df3e-11e7-8fd5-3ff55974cb1f.png">
 
 ### Learn More
 
-Part-1
-<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/dkPA2m/LEARNMORE_SCREEN_1.png">
+<img width="1631" alt="uhvibe_learn-more_page_1" src="https://user-images.githubusercontent.com/23148470/33913719-10efb524-df3f-11e7-8eb3-47395eb5d4f5.png">
 
-Part-2
-<img width="1638" alt="learnmore_page_nov22" src="https://image.ibb.co/ic9ooR/LEARNMORE_SCREEN_2.png">
+<img width="1628" alt="uhvibe_learn-more_page_2" src="https://user-images.githubusercontent.com/23148470/33913725-1cedf0f2-df3f-11e7-9ac3-ea71152e6e4d.png">
 
-### Get Started
+<img width="1617" alt="uhvibe_learn-more_page_3" src="https://user-images.githubusercontent.com/23148470/33913733-2671ec32-df3f-11e7-930f-f9de42c3bff2.png">
 
-Part-1
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/moRnF6/GET_STARTED_PAGE_1.png">
-
-Part-2
-<img width="1397" alt="getstarted_page_1_nov22" src="https://image.ibb.co/c3Cuv6/GET_STARTED_PAGE_3.png">
+<img width="1607" alt="uhvibe_learn-more_page_4" src="https://user-images.githubusercontent.com/23148470/33913741-31359c18-df3f-11e7-9e64-b8d819480bf0.png">
 
 ### Login
 
-<img width="1633" alt="login_page_nov20" src="https://user-images.githubusercontent.com/23148470/33055057-507c627a-ce21-11e7-9c4f-9d4ef97f709d.png">
+<img width="1631" alt="uhvibe_login_page" src="https://user-images.githubusercontent.com/23148470/33913764-48316bb8-df3f-11e7-9cf7-0fa5e94d4839.png">
 
-### Profile Form
+### Create Profile
 
-<img width="1218" alt="profileform_page_nov20" src="https://image.ibb.co/dCtjv6/CREATE_PROFILE_PAGE_1.png">
+<img width="1625" alt="uhvibe_create-profile_page" src="https://user-images.githubusercontent.com/23148470/33913807-6e3bf51c-df3f-11e7-81a2-0fcfb3fa4fbf.png">
+
+### Edit Profile
+
+<img width="1620" alt="uhvibe_edit-profile_page" src="https://user-images.githubusercontent.com/23148470/33913843-93e54250-df3f-11e7-837a-becf06841cf7.png">
+
+### User Profile
+
+<img width="1624" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33913875-b45a3194-df3f-11e7-8854-2ae6bee03730.png">
 
 ### Search
 
-<img width="963" alt="search_page_nov20" src="https://image.ibb.co/b5MR8R/SEARCH_PAGE_1.png">
+<img width="1625" alt="uhvibe_search-profile_page" src="https://user-images.githubusercontent.com/23148470/33913888-bfec4af6-df3f-11e7-8733-ba301f8d84d3.png">
+
+### Messages
+
+<img width="1622" alt="uhvibe_messages_page" src="https://user-images.githubusercontent.com/23148470/33913919-df9aab7c-df3f-11e7-8be2-55b18ab46f03.png">
+
+<img width="1623" alt="uhvibe_sent-messages_page" src="https://user-images.githubusercontent.com/23148470/33913933-ecedf194-df3f-11e7-9e7b-89090ba962ee.png">
+
+<img width="1619" alt="uhvibe_read-message_page" src="https://user-images.githubusercontent.com/23148470/33913955-f8f8f7fe-df3f-11e7-9338-840dcbcea2d9.png">
+
+<img width="1624" alt="uhvibe_send-message_page" src="https://user-images.githubusercontent.com/23148470/33913961-02a84cbe-df40-11e7-8ddf-61a5308b9f81.png">
 
 # Installation
 
@@ -152,6 +166,24 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 **Overall**:
 
 -Overall, it was really good. I didn't expect it to be that good. 
+
+#### Feedback 3 by A.O.
+
+Awesome design, especially the front page. I like how they implemented filters and email contact functions and also really like the simple design for profile :)
+
+#### Feedback 4 by Y.C.
+
+- It's cool how only UH students can use the app.
+
+- It's nice how it allows students to make new friends with similar interests.
+
+- The design is nice, everything is organized nicely.
+
+- It would be a good platform for new UH students who want to meet new friends.
+
+#### Feedback 5 by J.C.
+
+- ... waiting for response
 
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
