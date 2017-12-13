@@ -318,14 +318,21 @@ Each issue was implemented in its own branch and was merged into the master bran
 The issues that are planned in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
 ### Milestone 2
-Milestone started on November 23, 2017 and ended on December 7, 2017.
+Milestone started on November 23, 2017 and ended on December 13, 2017.
 
 The goal of this milestone was to continue to increase the functionality and the overall quality of our app.
 
 The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2](https://github.com/UHvibe/UHvibe/projects/2).
 
+<img width="657" alt="ms2-issues-1" src="https://user-images.githubusercontent.com/23148470/33966738-c511ba78-e004-11e7-9245-a0c6735f3b4c.png">
+<img width="663" alt="ms2-issues-2" src="https://user-images.githubusercontent.com/23148470/33966743-c8c0a756-e004-11e7-9508-c63a20d9f5fc.png">
+<img width="661" alt="ms2-issues-3" src="https://user-images.githubusercontent.com/23148470/33966744-cba1f0e2-e004-11e7-9fcf-894309f12353.png">
+<img width="665" alt="ms2-issues-4" src="https://user-images.githubusercontent.com/23148470/33966747-ce44920a-e004-11e7-8b24-fd6affa8887d.png">
+
+<img width="862" alt="ms2-network" src="https://user-images.githubusercontent.com/23148470/33967049-ea8d74ee-e005-11e7-8ac8-f114ea9e4db1.png">
+
 # Feedback
-### Feedback 1 by C.B.
+#### Feedback 1 by C.B.
 
 **Good**:
 
@@ -349,7 +356,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Expected something bland, but it was cool.
 
-### Feedback 2 by A.E.
+#### Feedback 2 by A.E.
 
 **Good**:
 
@@ -367,11 +374,11 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Overall, it was really good. I didn't expect it to be that good. 
 
-### Feedback 3 by A.O.
+#### Feedback 3 by A.O.
 
-Awesome design, especially the front page. I like how they implemented filters and email contact functions and also really like the simple design for profile :)
+-Awesome design, especially the front page. I like how they implemented filters and email contact functions and also really like the simple design for profile :)
 
-### Feedback 4 by Y.C.
+#### Feedback 4 by Y.C.
 
 -It's cool how only UH students can use the app.
 
@@ -381,7 +388,7 @@ Awesome design, especially the front page. I like how they implemented filters a
 
 -It would be a good platform for new UH students who want to meet new friends.
 
-### Feedback 5 by J.C.
+#### Feedback 5 by J.C.
 
 **Good**:
 
