@@ -373,13 +373,13 @@ Awesome design, especially the front page. I like how they implemented filters a
 
 #### Feedback 4 by Y.C.
 
-- It's cool how only UH students can use the app.
+-It's cool how only UH students can use the app.
 
-- It's nice how it allows students to make new friends with similar interests.
+-It's nice how it allows students to make new friends with similar interests.
 
-- The design is nice, everything is organized nicely.
+-The design is nice, everything is organized nicely.
 
-- It would be a good platform for new UH students who want to meet new friends.
+-It would be a good platform for new UH students who want to meet new friends.
 
 #### Feedback 5 by J.C.
 
