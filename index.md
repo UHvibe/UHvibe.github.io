@@ -367,11 +367,11 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Overall, it was really good. I didn't expect it to be that good. 
 
-#### Feedback 3 by A.O.
+### Feedback 3 by A.O.
 
 Awesome design, especially the front page. I like how they implemented filters and email contact functions and also really like the simple design for profile :)
 
-#### Feedback 4 by Y.C.
+### Feedback 4 by Y.C.
 
 -It's cool how only UH students can use the app.
 
@@ -381,7 +381,7 @@ Awesome design, especially the front page. I like how they implemented filters a
 
 -It would be a good platform for new UH students who want to meet new friends.
 
-#### Feedback 5 by J.C.
+### Feedback 5 by J.C.
 
 **Good**:
 
