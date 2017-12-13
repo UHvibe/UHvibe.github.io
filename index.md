@@ -71,7 +71,7 @@ If the user decides to change any of their information, they have the option of 
 ### User Profile
 
 The user profile page allows the user to view their current profile information.
-<img width="1624" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33913875-b45a3194-df3f-11e7-8854-2ae6bee03730.png">
+<img width="1663" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33930543-602e1a7a-df91-11e7-9fc4-50e0462d810b.png">
 
 ### Search
 
