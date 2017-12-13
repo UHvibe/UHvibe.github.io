@@ -66,12 +66,12 @@ The user can input their information about themselves and their music interests/
 ### Edit Profile
 
 If the user decides to change any of their information, they have the option of editing their profile.
-<img width="1620" alt="uhvibe_edit-profile_page" src="https://user-images.githubusercontent.com/23148470/33913843-93e54250-df3f-11e7-837a-becf06841cf7.png">
+<img width="1651" alt="uhvibe_edit-profile_page" src="https://user-images.githubusercontent.com/23148470/33931645-b2ab5a9e-df94-11e7-8896-b07eefa4ada1.png">
 
 ### User Profile
 
 The user profile page allows the user to view their current profile information.
-<img width="1663" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33930543-602e1a7a-df91-11e7-9fc4-50e0462d810b.png">
+<img width="1650" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33931537-646ba1ea-df94-11e7-9430-85e77e571155.png">
 
 ### Search
 
