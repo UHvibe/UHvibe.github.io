@@ -27,10 +27,12 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 ### Landing Page
 
+The user can get information on the web-app by clicking on 'Learn More' of the navigation bar or the user can log in by clicking on the 'LOGIN' button of the navigation bar.
 <img width="1632" alt="uhvibe_landing_page" src="https://user-images.githubusercontent.com/23148470/33913696-fbd222c6-df3e-11e7-8fd5-3ff55974cb1f.png">
 
 ### Learn More
 
+The user can get information on 'What is the purpose of this app?', 'Why use this app?', and the general features that the app has. If the user/visitor is interested in using the app, they can click on the 'LOGIN' button at the bottom of the page.
 <img width="1631" alt="uhvibe_learn-more_page_1" src="https://user-images.githubusercontent.com/23148470/33913719-10efb524-df3f-11e7-8eb3-47395eb5d4f5.png">
 
 <img width="1628" alt="uhvibe_learn-more_page_2" src="https://user-images.githubusercontent.com/23148470/33913725-1cedf0f2-df3f-11e7-9ac3-ea71152e6e4d.png">
@@ -41,30 +43,37 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 ### Login
 
+After clicking on the 'LOGIN' button, the user is presented with login page, where they can enter their University of Hawaii username and password.
 <img width="1631" alt="uhvibe_login_page" src="https://user-images.githubusercontent.com/23148470/33913764-48316bb8-df3f-11e7-9cf7-0fa5e94d4839.png">
 
 ### Create Profile
 
+The user can input their information about themselves and their music interests/skills to allow other users to recognize them in the 'Search' page.
 <img width="1625" alt="uhvibe_create-profile_page" src="https://user-images.githubusercontent.com/23148470/33913807-6e3bf51c-df3f-11e7-81a2-0fcfb3fa4fbf.png">
 
 ### Edit Profile
 
+If the user decides to change any of their information, they have the option of editing their profile.
 <img width="1620" alt="uhvibe_edit-profile_page" src="https://user-images.githubusercontent.com/23148470/33913843-93e54250-df3f-11e7-837a-becf06841cf7.png">
 
 ### User Profile
 
+The user profile page allows the user to view their current profile information.
 <img width="1624" alt="uhvibe_user-profile_page" src="https://user-images.githubusercontent.com/23148470/33913875-b45a3194-df3f-11e7-8854-2ae6bee03730.png">
 
 ### Search
 
+The search page shows all the user profiles. The user has the option of filtering music genre interests to show specific user profiles. There is also an option to message specific users using the messaging feature.
 <img width="1625" alt="uhvibe_search-profile_page" src="https://user-images.githubusercontent.com/23148470/33913888-bfec4af6-df3f-11e7-8733-ba301f8d84d3.png">
 
 ### Messages
 
+The user is able to view both their received messages and their sent messages. Every message has a 'Read' option, that allows the user to see the contents of the message. New messages are indicated by the 'New' keyword and users are notified of new messages in the navigation bar (a red dot appears next to 'Messages' when you have a new message). Users will also be notified of any unfinished sent messages, which will be indicated by the 'Draft' keyword.
 <img width="1622" alt="uhvibe_messages_page" src="https://user-images.githubusercontent.com/23148470/33913919-df9aab7c-df3f-11e7-8be2-55b18ab46f03.png">
 
 <img width="1623" alt="uhvibe_sent-messages_page" src="https://user-images.githubusercontent.com/23148470/33913933-ecedf194-df3f-11e7-9e7b-89090ba962ee.png">
 
+When the user is finished reading their message, they have the option of going back to the mailbox, replying to the message, or deleting the message. If the user clicks on the 'Reply' button, it will bring the user to the 'Send-Message' page, which allows the user to write their message and send it. If the user clicks on the 'Delete' button, a 'confirmation' alert will appear to confirm if the user does, in fact, want to delete the message.
 <img width="1619" alt="uhvibe_read-message_page" src="https://user-images.githubusercontent.com/23148470/33913955-f8f8f7fe-df3f-11e7-9338-840dcbcea2d9.png">
 
 <img width="1624" alt="uhvibe_send-message_page" src="https://user-images.githubusercontent.com/23148470/33913961-02a84cbe-df40-11e7-8ddf-61a5308b9f81.png">
