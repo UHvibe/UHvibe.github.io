@@ -189,7 +189,21 @@ Awesome design, especially the front page. I like how they implemented filters a
 
 #### Feedback 5 by J.C.
 
-- ... waiting for response
+**Good**:
+
+-Nice Design
+
+-Nice layout, the functionalities make sense. 
+
+**Bad/Improvements**:
+
+-When I search for people, it would be nice if we can search by input.
+
+-It is a little too much work to cross out the interests to search for people. 
+
+**Overall**:
+
+-Overall, I thought the app was very well thought and created considering that it is a project for school.  
 
 # Contact Us
 * Mai Abe: maiabe@hawaii.edu
