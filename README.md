@@ -100,9 +100,6 @@ If done correctly, the application will appear at [http://localhost:3000](http:/
 
 The UHvibe files were made using an Integrated Developement Environment called IntelliJ IDEA. The files can be modified using your text-editor of choice.
 
-# Application Design
-In Progress..
-
 # Development History
 ### Milestone 1
 Milestone 1 started on November 7, 2017 and ended on November 22, 2017.
