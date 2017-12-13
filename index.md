@@ -19,7 +19,6 @@
   * [CSS](#css)
   * [Routing](#routing)
   * [Authentication](#authentication)
-  * [Authorization](#authorization)
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
@@ -39,23 +38,23 @@ University of Hawaii has 10 campuses and additional educational and research fac
 
 ### Landing Page
 
-The user can get information on the web-app by clicking on 'Learn More' of the navigation bar or the user can log in by clicking on the 'LOGIN' button of the navigation bar.
+The user can get information on the web-app by clicking on 'Learn More' in the navigation bar or the user can log in by clicking on the 'LOGIN' button in the navigation bar.
 <img width="1632" alt="uhvibe_landing_page" src="https://user-images.githubusercontent.com/23148470/33913696-fbd222c6-df3e-11e7-8fd5-3ff55974cb1f.png">
 
 ### Learn More
 
-The user can get information on 'What is the purpose of this app?', 'Why use this app?', and the general features that the app has. If the user/visitor is interested in using the app, they can click on the 'LOGIN' button at the bottom of the page.
+The user can get information on 'What the purpose of the app?', 'Why use this app?', and the general features of the app. If the user/visitor is interested in using the app, they can click on the 'LOGIN' button at the bottom of the page.
 <img width="1631" alt="uhvibe_learn-more_page_1" src="https://user-images.githubusercontent.com/23148470/33913719-10efb524-df3f-11e7-8eb3-47395eb5d4f5.png">
 
 <img width="1628" alt="uhvibe_learn-more_page_2" src="https://user-images.githubusercontent.com/23148470/33913725-1cedf0f2-df3f-11e7-9ac3-ea71152e6e4d.png">
 
 <img width="1617" alt="uhvibe_learn-more_page_3" src="https://user-images.githubusercontent.com/23148470/33913733-2671ec32-df3f-11e7-930f-f9de42c3bff2.png">
 
-<img width="1607" alt="uhvibe_learn-more_page_4" src="https://user-images.githubusercontent.com/23148470/33913741-31359c18-df3f-11e7-9e64-b8d819480bf0.png">
+<img width="1639" alt="learnmore-interested-screenshot" src="https://user-images.githubusercontent.com/23148470/33967509-da220e56-e007-11e7-92b2-ede817d10006.png">
 
 ### Login
 
-After clicking on the 'LOGIN' button, the user is presented with login page, where they can enter their University of Hawaii username and password.
+After clicking on the 'LOGIN' button, the user is presented with the login page, where the user can enter their University of Hawaii username and password.
 <img width="1631" alt="uhvibe_login_page" src="https://user-images.githubusercontent.com/23148470/33913764-48316bb8-df3f-11e7-9cf7-0fa5e94d4839.png">
 
 ### Create Profile
@@ -110,7 +109,7 @@ $ meteor npm run start
 
 If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login. 
 
-The UHvibe files were made using an Integrated Developement Environment called IntelliJ IDEA. The files can be modified using your text-editor of choice.
+The UHvibe files were made using an IDE called IntelliJ IDEA. However, the files can be modified using your text-editor of choice.
 
 # Application Design
 
@@ -124,7 +123,7 @@ config/     # holds settings.development.json, a configuration file
 .gitignore  # don't commit IntelliJ project files, node_modules, and settings.production.json
 ```
 
-This directory structure allows us to separate the configuration files in config/ directory from the actial appp files in the app/ directory.
+This directory structure allows us to separate the configuration files in config/ directory from the actual app files in the app/ directory.
 
 The app/ directory has this top-level structure:
 
@@ -202,7 +201,7 @@ import '/imports/api/interest';
 import '/imports/api/message'; 
 ```
 
-All lines invoke the index.js file in the specified directory except for style.css
+All lines invoke the index.js file in the specified directory except for style.css.
 
 We use this approach to make it simple to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded.  In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories. 
 
@@ -214,8 +213,8 @@ This system adopts the following naming conventions:
 
   * Files and directories are named in all lowercase, with words separated by hyphens. Example: accounts-config.js
   * "Global" Javascript variables (such as collections) are capitalized. Example: Profiles.
-  * Other Javascript variables are camel-case. Example: collectionList.
-  * Templates representing pages are capitalized, with words separated by underscores. Example: Directory_Page. The files for this template are lower case, with hyphens rather than underscore. Example: directory-page.html, directory-page.js.
+  * Other Javascript variables are camel-case. Example: receivedMessage.
+  * Templates representing pages are capitalized, with words separated by underscores. Example: Create_Profile_Page. The files for this template are lower case, with hyphens rather than underscore. Example: create-profile-page.html, create-profile-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Landing_Page.
 
 ## Data model
@@ -234,11 +233,9 @@ The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. T
 
 The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory). 
 
-Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/UHvibe/UHvibe/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user. 
-
 ## Routing
 
-For display and navigation among its four pages, the application uses [Flow Router](https://github.com/kadirahq/flow-router).
+For display and navigation among its nine pages (Landing Page, Learn More Page, Create Profile Page, Edit Profile Page, User Profile Page, Search Page, Messages Page, Read Message Page, and Send Message Page), the application uses [Flow Router](https://github.com/kadirahq/flow-router).
 
 Routing is defined in [imports/startup/client/router.js](https://github.com/ics-software-engineering/meteor-application-template/blob/master/app/imports/startup/client/router.js).
 
@@ -247,7 +244,7 @@ UHvibe defines the following routes:
   * The `/` route goes to the public landing page.
   * The `/learnmore` route goes to the public learn more page
   * The `/<user>/createProfile` route goes to the create profile page associated with `<user>`, which is the UH account name.
-  * The `/<user>/editProfile` route goes to the create profile page associated with `<user>`, which is the UH account name.
+  * The `/<user>/editProfile` route goes to the edit profile page associated with `<user>`, which is the UH account name.
   * The `/<user>/profile` route goes to the user profile page associated with `<user>`, which is the UH account name.
   * The `/<user>/search` route goes to the search page, which contains user profiles, associated with `<user>`, which is the UH account name.
   * The `/<user>/messages` route goes to the messages page associated with `<user>`, which is the UH account name.
@@ -261,16 +258,6 @@ For authentication, the application uses the University of Hawaii CAS test serve
 When the application is run, the CAS configuration information must be present in a configuration file such as  [config/settings.development.json](https://github.com/ics-software-engineering/meteor-application-template/blob/master/config/settings.development.json). 
 
 Anyone with a UH account can login and use UHvibe to create a profile. 
-
-## Authorization
-
-The landing and learn more pages have a public access.
-
-The create profile, edit profile, user profile, search, and message pages require authorization: you must be logged in (i.e. authenticated) through the UH test CAS server, and the authenticated username returned by CAS must match the username specified in the URL.  So, for example, only the authenticated user `testuser` can access the pages `http://localhost:3000/testuser/createProfile` and etc.
-
-To prevent people from accessing pages they are not authorized to visit, template-based authorization is used following the recommendations in [Implementing Auth Logic and Permissions](https://kadira.io/academy/meteor-routing-guide/content/implementing-auth-logic-and-permissions). 
-
-The application implements template-based authorization using an If_Authorized template, defined in [If_Authorized.html](https://github.com/UHvibe/UHvibe/blob/master/app/imports/ui/layouts/user/if-authorized.html) and [If_Authorized.js](https://github.com/UHvibe/UHvibe/blob/master/app/imports/ui/layouts/user/if-authorized.js).
 
 ## Configuration
 
@@ -332,7 +319,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 <img width="862" alt="ms2-network" src="https://user-images.githubusercontent.com/23148470/33967049-ea8d74ee-e005-11e7-8ac8-f114ea9e4db1.png">
 
 # Feedback
-#### Feedback 1 by C.B.
+### Feedback 1 by C.B.
 
 **Good**:
 
@@ -356,7 +343,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Expected something bland, but it was cool.
 
-#### Feedback 2 by A.E.
+### Feedback 2 by A.E.
 
 **Good**:
 
@@ -374,11 +361,11 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -Overall, it was really good. I didn't expect it to be that good. 
 
-#### Feedback 3 by A.O.
+### Feedback 3 by A.O.
 
 -Awesome design, especially the front page. I like how they implemented filters and email contact functions and also really like the simple design for profile :)
 
-#### Feedback 4 by Y.C.
+### Feedback 4 by Y.C.
 
 -It's cool how only UH students can use the app.
 
@@ -388,7 +375,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -It would be a good platform for new UH students who want to meet new friends.
 
-#### Feedback 5 by J.C.
+### Feedback 5 by J.C.
 
 **Good**:
 
