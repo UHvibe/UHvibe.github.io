@@ -83,14 +83,14 @@ The search page shows all the user profiles. The user has the option of filterin
 ### Messages
 
 The user is able to view both their received messages and their sent messages. Every message has a 'Read' option, that allows the user to see the contents of the message. New messages are indicated by the 'New' keyword and users are notified of new messages in the navigation bar (a red dot appears next to 'Messages' when you have a new message). Users will also be notified of any unfinished sent messages, which will be indicated by the 'Draft' keyword.
-<img width="1622" alt="uhvibe_messages_page" src="https://user-images.githubusercontent.com/23148470/33913919-df9aab7c-df3f-11e7-8be2-55b18ab46f03.png">
+<img width="1529" alt="uhvibe_messages_page" src="https://user-images.githubusercontent.com/23148470/33970937-ec50af1c-e019-11e7-96ac-e520971bb0f0.png">
 
-<img width="1623" alt="uhvibe_sent-messages_page" src="https://user-images.githubusercontent.com/23148470/33913933-ecedf194-df3f-11e7-9e7b-89090ba962ee.png">
+<img width="1512" alt="uhvibe_sent-messages_page" src="https://user-images.githubusercontent.com/23148470/33970944-f7e5f904-e019-11e7-919c-fff53ea6c43b.png">
 
 When the user is finished reading their message, they have the option of going back to the mailbox, replying to the message, or deleting the message. If the user clicks on the 'Reply' button, it will bring the user to the 'Send-Message' page, which allows the user to write their message and send it. If the user clicks on the 'Delete' button, a 'confirmation' alert will appear to confirm if the user does, in fact, want to delete the message.
-<img width="1619" alt="uhvibe_read-message_page" src="https://user-images.githubusercontent.com/23148470/33913955-f8f8f7fe-df3f-11e7-9338-840dcbcea2d9.png">
+<img width="1519" alt="uhvibe_read-message_page" src="https://user-images.githubusercontent.com/23148470/33970962-104ed4e8-e01a-11e7-80a8-d2e401642f5c.png">
 
-<img width="1624" alt="uhvibe_send-message_page" src="https://user-images.githubusercontent.com/23148470/33913961-02a84cbe-df40-11e7-8ddf-61a5308b9f81.png">
+<img width="1519" alt="uhvibe_send-message_page" src="https://user-images.githubusercontent.com/23148470/33970970-14bbe296-e01a-11e7-9e8a-f4ab264047e1.png">
 
 # Installation
 
