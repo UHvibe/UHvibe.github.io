@@ -19,6 +19,7 @@
   * [CSS](#css)
   * [Routing](#routing)
   * [Authentication](#authentication)
+  * [Authorization](#authorization)
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
@@ -205,9 +206,9 @@ import '/imports/api/message';
 
 All lines invoke the index.js file in the specified directory except for style.css.
 
-We use this approach to make it simple to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded.  In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories. 
+We use this approach to make it simple to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded. In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories. 
 
-Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible.  So, for example, a symbol bound to a collection still needs to be imported into any file that references it. 
+Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible. So, for example, a symbol bound to a collection still needs to be imported into any file that references it. 
  
 ## Naming conventions
 
@@ -221,7 +222,7 @@ This system adopts the following naming conventions:
 
 ## Data model
 
-The UHvibe data model is implemented by three Javascript classes: [InterestCollection](https://github.com/UHvibe/UHvibe/blob/master/app/imports/api/interest/InterestCollection.js), [MessageCollection](https://github.com/UHvibe/UHvibe/tree/master/app/imports/api/message), and [ProfileCollection](https://github.com/UHvibe/UHvibe/blob/master/app/imports/api/profile/ProfileCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Interests, Message, Profiles)that provides access to that collection. 
+The UHvibe data model is implemented by three Javascript classes: [InterestCollection](https://github.com/UHvibe/UHvibe/blob/master/app/imports/api/interest/InterestCollection.js), [MessageCollection](https://github.com/UHvibe/UHvibe/blob/master/app/imports/api/message/MessageCollection.js), and [ProfileCollection](https://github.com/UHvibe/UHvibe/blob/master/app/imports/api/profile/ProfileCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Interests, Message, Profiles) that provides access to that collection. 
 
 Any part of the system that manipulates the UHvibe data model imports the Interests, Messages, or Profiles variable, and invokes methods of that class to get or set data.
 
@@ -260,6 +261,17 @@ For authentication, the application uses the University of Hawaii CAS test serve
 When the application is run, the CAS configuration information must be present in a configuration file such as  [config/settings.development.json](https://github.com/ics-software-engineering/meteor-application-template/blob/master/config/settings.development.json). 
 
 Anyone with a UH account can login and use UHvibe to create a profile. 
+
+## Authorization
+
+The landing and learn more pages have a public access.
+
+The create profile, edit profile, user profile, search, and message pages (messages, read message, send message pages) require authorization: you must be logged in (i.e. authenticated) through the UH test CAS server, and the authenticated username returned by CAS must match the username specified in the URL.  So, for example, only the authenticated user `testuser` can access the pages `http://localhost:3000/testuser/createProfile` and etc.
+
+To prevent people from accessing pages they are not authorized to visit, template-based authorization is used following the recommendations in [Implementing Auth Logic and Permissions](https://kadira.io/academy/meteor-routing-guide/content/implementing-auth-logic-and-permissions) (Unfortunately, the site is not active). 
+
+The application implements template-based authorization using an If_Authorized template, defined in [If_Authorized.html](https://github.com/UHvibe/UHvibe/blob/master/app/imports/ui/layouts/user/if-authorized.html) and [If_Authorized.js](https://github.com/UHvibe/UHvibe/blob/master/app/imports/ui/layouts/user/if-authorized.js).
+
 
 ## Configuration
 
@@ -339,7 +351,7 @@ The issues done in Milestone 2 can be seen in [UHvibe Github Project Milestone 2
 
 -On the homepage, you can have notifications of messages or possibly some other reason, such as an event that is happening in Hawaii that might interest you.
 
--Create groups and allow users to possibly comment and send puclic messages within the group
+-Create groups and allow users to possibly comment and send public messages within the group
 
 **Overall**:
 
